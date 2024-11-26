@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\projets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\projets.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\membres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\membres.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\viewmodel\\addprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\viewmodel\\addprojectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\projets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\projets.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\views\\membres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\views\\membres.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\viewmodel\\projetsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\viewmodel\\projetsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\commands\\icommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\commands\\icommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\viewmodel\\membreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\viewmodel\\membreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\models\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\models\\projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\models\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\models\\membre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|c:\\users\\chaim_28756ds\\downloads\\wpfua2group2\\exam\\wpfmvvmua2\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB454E-2CA6-49D7-A3C0-27D8FB1CBC95}|WpfMvvmUA2\\WpfMvvmUA2.csproj|solutionrelative:wpfmvvmua2\\models\\projectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projets.xaml",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Projets.xaml",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\Projets.xaml",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Projets.xaml",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\Projets.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T00:47:16.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\AddProjectViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\ViewModel\\AddProjectViewModel.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\AddProjectViewModel.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\ViewModel\\AddProjectViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:32:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Membres.xaml",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Membres.xaml",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\Membres.xaml",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Membres.xaml",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\Membres.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T23:36:13.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:07:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T23:58:56.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:56:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projets.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Projets.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\Projets.xaml.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Projets.xaml.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\Projets.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:46:12.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Membres.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Membres.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Views\\Membres.xaml.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Views\\Membres.xaml.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Views\\Membres.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:45:11.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Icommande.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Commands\\Icommande.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Commands\\Icommande.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Commands\\Icommande.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Commands\\Icommande.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:06:43.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjetsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\ProjetsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\ViewModel\\ProjetsViewModel.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\ProjetsViewModel.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\ViewModel\\ProjetsViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:32:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:24:05.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MembreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\MembreViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\ViewModel\\MembreViewModel.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\ViewModel\\MembreViewModel.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\ViewModel\\MembreViewModel.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:51:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "projet.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\projet.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Models\\projet.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\projet.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Models\\projet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:30:14.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Membre.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\Membre.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Models\\Membre.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\Membre.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Models\\Membre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:28:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\ProjectManager.cs",
+              "RelativeDocumentMoniker": "WpfMvvmUA2\\Models\\ProjectManager.cs",
+              "ToolTip": "C:\\Users\\Chaim_28756ds\\Downloads\\WpfUA2Group2\\Exam\\WpfMvvmUA2\\Models\\ProjectManager.cs",
+              "RelativeToolTip": "WpfMvvmUA2\\Models\\ProjectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:27:22.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

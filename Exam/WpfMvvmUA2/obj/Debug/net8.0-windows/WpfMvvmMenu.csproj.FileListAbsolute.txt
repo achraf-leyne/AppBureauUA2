@@ -1,0 +1,111 @@
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.exe
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.deps.json
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.runtimeconfig.json
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.dll
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.pdb
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.cache
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.lref
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.g.resources
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfoInputs.cache
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfo.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.csproj.CoreCompileInputs.cache
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.dll
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\refint\WpfMvvmMenu.dll
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.pdb
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.genruntimeconfig.cache
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\ref\WpfMvvmMenu.dll
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Home.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Home.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Alerte.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Calendrier.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Clients.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Commandes.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Parametres.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Produits.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Stock.g.cs
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Alerte.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Calendrier.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Clients.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Commandes.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Parametres.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Produits.baml
+C:\Users\saumon\source\repos\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Stock.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.exe
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.deps.json
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.runtimeconfig.json
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.pdb
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\Icons.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.lref
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.g.resources
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfoInputs.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfo.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.csproj.CoreCompileInputs.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\refint\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.pdb
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.genruntimeconfig.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\ref\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Dashbord.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Dashbord.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleButton.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleListView.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\AddMembre.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\AddMembre.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.exe
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.deps.json
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.runtimeconfig.json
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\bin\Debug\net8.0-windows\WpfMvvmMenu.pdb
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\Icons.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleButton.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleGridView.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleListView.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Resources\StyleTextBox.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu_MarkupCompile.lref
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\App.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Affectation.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Controls\Themes\Generic.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Membres.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\Views\Projets.baml
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.g.resources
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfoInputs.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.AssemblyInfo.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.csproj.CoreCompileInputs.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\refint\WpfMvvmMenu.dll
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.pdb
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\WpfMvvmMenu.genruntimeconfig.cache
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\ref\WpfMvvmMenu.dll

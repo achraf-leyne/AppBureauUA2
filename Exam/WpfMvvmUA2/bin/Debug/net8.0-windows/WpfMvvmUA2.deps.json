@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfMvvmUA2/1.0.0": {
+        "runtime": {
+          "WpfMvvmUA2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfMvvmUA2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

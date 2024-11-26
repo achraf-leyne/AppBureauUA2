@@ -1,0 +1,20 @@
+﻿WpfMvvmMenu
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\obj\Debug\net8.0-windows\
+WpfMvvmMenu
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\Cours\Session Automne\Application Bureau\Exams\Projet P1\Gabarit\WpfMvvmMenu\WpfMvvmMenu\App.xaml
+10-91235226
+
+102097759634
+198-556154604
+Resources\Icons.xaml;Resources\StyleButton.xaml;Resources\StyleGridView.xaml;Resources\StyleListView.xaml;Resources\StyleTextBox.xaml;Views\Affectation.xaml;Views\Controls\Themes\Generic.xaml;Views\MainWindow.xaml;Views\Membres.xaml;Views\Projets.xaml;
+
+False
+
